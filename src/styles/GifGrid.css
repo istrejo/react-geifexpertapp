@@ -1,0 +1,16 @@
+h3 {
+   margin-bottom: 15px;
+}
+
+/* .cards-container {
+   display: grid;
+   grid-gap: 0.5rem;
+   grid-template-columns: repeat(auto-fill, minmax(305px, 1fr));
+} */
+
+.cards-container {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}

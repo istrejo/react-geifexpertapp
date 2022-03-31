@@ -1,0 +1,23 @@
+header {
+   width: 100%;
+   height: auto;
+   background-color: #e30657;
+   box-shadow: 0 2px 5px rgba(148, 148, 148, 0.171);
+   margin-bottom: 20px;
+}
+
+nav {
+   display: flex;
+   align-items: center;
+   width: 80%;
+   height: 55px;
+   margin: 0 auto;
+}
+
+nav a {
+   font-size: 2.5rem;
+   font-weight: 700;
+   line-height: 1.8rem;
+   color: #fff;
+   text-decoration: none;
+}
